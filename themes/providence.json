@@ -743,7 +743,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#6a7dc8"
+        "foreground": "#7ce9d1"
       }
     },
     {
@@ -792,7 +792,7 @@
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#2372c7"
+        "foreground": "#cccccc"
       }
     },
     {
@@ -1809,7 +1809,7 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#7f848e"
+        "foreground": "#FF0080"
       }
     },
     {
