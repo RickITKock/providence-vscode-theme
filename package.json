@@ -1,7 +1,7 @@
 {
-  "name": "to-the-moon-color-theme",
+  "name": "providence",
   "displayName": "to-the-moon-color-theme",
-  "description": "Minimalistic theme for awesome programming.",
+  "description": "Theme made for professionals.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.78.0"
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "To the Moon!",
+        "label": "Providence",
         "uiTheme": "vs-dark",
-        "path": "./themes/To the Moon!-color-theme.json"
+        "path": "./themes/providence.json"
       }
     ]
   }
